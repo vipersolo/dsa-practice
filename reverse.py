@@ -1,7 +1,7 @@
 #-----------------------------
 # traversal one time - but space complexity 0(n)
 #-----------------------------
-# arr = [1,2,3,4,5]
+
 
 # new_array=[]
 
